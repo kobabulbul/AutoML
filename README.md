@@ -1,2 +1,3 @@
 # AutoML
-AutoML Stuff
+Automated Machine Learning
+Informed Machine Learning
