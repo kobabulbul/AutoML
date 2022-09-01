@@ -1,3 +1,3 @@
 # AutoML
-Automated Machine Learning
+Automated Machine Learning \\
 Informed Machine Learning
